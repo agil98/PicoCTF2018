@@ -1,5 +1,5 @@
 # picoCTF 2018 Writeup
-This CTF was done in collaboration with [@TigerZuo] (https://github.com/Tigerzuo)
+This CTF was done in collaboration with [@TigerZuo](https://github.com/Tigerzuo)
 
 Currently in the process of writing the challenges we have completed so far. The ones we haven't completed yet will later be included for reference.
 
