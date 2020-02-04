@@ -31,5 +31,15 @@ Currently in the process of writing the challenges we have completed so far. The
             <td markdown="span">150</td>
             <td markdown="span">Solved</td>
         </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Forensics%2Truly%20An%20Artist">Truly An Artist</a></td>
+            <td markdown="span">150</td>
+            <td markdown="span">Solved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Forensics/Forensics%20Hex Editor">Hex Editor</a></td>
+            <td markdown="span">200</td>
+            <td markdown="span">Solved</td>
+        </tr>
     </tbody>
 </table>

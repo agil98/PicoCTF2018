@@ -14,4 +14,4 @@ Forensics
 Answer the questions manually after connecting to the server using the provided json file
 
 ### Flag
-`picoCTF{}`
+`picoCTF{J4y_s0n_d3rUUUULo_4f3aae0d}`
