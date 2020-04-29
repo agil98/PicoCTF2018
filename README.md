@@ -88,12 +88,12 @@ Currently in the process of writing the challenges we have completed so far. The
         <tr>
             <td markdown="span"><a href="General%20Skills/strings">strings</a></td>
             <td markdown="span">100</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/pipe">pipe</a></td>
             <td markdown="span">110</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/grep%202">grep 2</a></td>
@@ -113,7 +113,7 @@ Currently in the process of writing the challenges we have completed so far. The
         <tr>
             <td markdown="span"><a href="General%20Skills/ssh-keyz">ssh-keyz</a></td>
             <td markdown="span">150</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/what%20base%20is%20this%3F">what base is this?</a></td>
@@ -153,7 +153,7 @@ Currently in the process of writing the challenges we have completed so far. The
         <tr>
             <td markdown="span"><a href="General%20Skills/script%20me">script me</a></td>
             <td markdown="span">500</td>
-            <td markdown="span">Solved </td>
+            <td markdown="span">Unsolved </td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/Dog%20or%20Frog">Dog or Frog</a></td>
