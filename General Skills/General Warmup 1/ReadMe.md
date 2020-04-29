@@ -11,7 +11,7 @@ General Skills
 >Submit your answer in our competition's flag format. For example, if you answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
 
 ## Solution
-Looking up an ASCII table tells us that the character `A` has encoding '0x41`
+Looking up an ASCII table tells us that the character `A` has encoding `0x41`
 
 ### Flag
 `picoCTF{A}`
