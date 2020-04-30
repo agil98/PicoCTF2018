@@ -118,7 +118,7 @@ Currently in the process of writing the challenges we have completed so far. The
         <tr>
             <td markdown="span"><a href="General%20Skills/what%20base%20is%20this%3F">what base is this?</a></td>
             <td markdown="span">200</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/you%20can%27t%20see%20me">you can't see me</a></td>
@@ -148,7 +148,7 @@ Currently in the process of writing the challenges we have completed so far. The
         <tr>
             <td markdown="span"><a href="General%20Skills/store">store</a></td>
             <td markdown="span">400</td>
-            <td markdown="span">Unsolved</td>
+            <td markdown="span">Solved</td>
         </tr>
         <tr>
             <td markdown="span"><a href="General%20Skills/script%20me">script me</a></td>
